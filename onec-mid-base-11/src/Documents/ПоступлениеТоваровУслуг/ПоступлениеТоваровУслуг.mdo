@@ -152,6 +152,21 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="2bbf8f5b-beaf-42d4-a3f5-9852ea637500">
+    <name>НетКонтактноеЛицо</name>
+    <synonym>
+      <key>ru</key>
+      <value>Нет контактное лицо</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.НетКонтактныеЛица</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="934b763d-04d8-4059-a85c-e4cbfd3acd29">
     <name>ФормаДокумента</name>
     <synonym>
