@@ -7,15 +7,15 @@
     <listType typeId="59b9e94c-eb83-4b52-aa7a-95f5c371b1b2" valueTypeId="8dea9b5a-3a58-405b-adc4-a2d3579dd1af"/>
     <managerType typeId="4252aaf9-e3f4-43f5-a673-d16411e2569b" valueTypeId="ce5337ef-9a6a-49b6-9388-3e7f5b6a6510"/>
   </producedTypes>
-  <name>КонтактныеЛица</name>
+  <name>НетКонтактныеЛица</name>
   <synonym>
     <key>ru</key>
-    <value>Контактные лица</value>
+    <value>Нет контактные лица</value>
   </synonym>
   <comment>для добавлений контактных лиц</comment>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.КонтактныеЛица.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.КонтактныеЛица.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.НетКонтактныеЛица.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.НетКонтактныеЛица.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
